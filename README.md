@@ -21,6 +21,13 @@ Things to learn to get started with Flutter
 - [ ] Read article [Flutter for Android Developers](https://flutter.io/flutter-for-android/)
 - [ ] Animation
 
+### Iot
+
+- [ ] HTTP/HTTPS Requests
+- [ ] Bluetooth
+- [ ] MQTT
+- [ ] mDNS
+
 ### Layouts
 
 - [ ] Building Layouts in Flutter
@@ -40,3 +47,21 @@ Things to learn to get started with Flutter
     - [ ] Navigation with buttons
 - [ ] Icons
 - [ ] Images
+- [ ] GIFS
+- [ ] Video
+
+### Ads
+
+- [ ] Banner Ads
+- [ ] Interstitial ads
+- [ ] Video ads
+
+### Pricing
+
+- [ ] Buy from Appstore
+- [ ] In-App purchases
+
+### Native Integration
+
+- [ ] Native integration with Android
+- [ ] Native integration with iOS
